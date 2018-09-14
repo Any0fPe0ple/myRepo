@@ -19,7 +19,6 @@ namespace SSH_client
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            int i;
 
             }
     }
