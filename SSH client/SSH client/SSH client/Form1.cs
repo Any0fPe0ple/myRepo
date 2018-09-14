@@ -19,16 +19,7 @@ namespace SSH_client
 
         private void Form1_Load(object sender, EventArgs e)
         {
-<<<<<<< HEAD
-         
-            nhdn ghnfghmfghm
-=======
-            Console.Write("asdasdasdasdasdadvdsfvsd");
 
-
-            456456456
-
->>>>>>> parent of d5d3466... //
 
             }
     }
