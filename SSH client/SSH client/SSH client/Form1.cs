@@ -21,9 +21,7 @@ namespace SSH_client
         {
             //int i; int i;
 //            asdfasdf
-//            sdfasdfasdf
-//            fasdfa
-//asdfasdfasdf
+
 //            asdfasd
 
         }
