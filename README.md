@@ -1,2 +1,0 @@
-# myRepo
-My Repository
