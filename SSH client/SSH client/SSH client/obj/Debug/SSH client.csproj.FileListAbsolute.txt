@@ -1,0 +1,14 @@
+D:\GitHub\myRepo\SSH client\SSH client\SSH client\bin\Debug\SSH client.exe.config
+D:\GitHub\myRepo\SSH client\SSH client\SSH client\bin\Debug\SSH client.exe
+D:\GitHub\myRepo\SSH client\SSH client\SSH client\bin\Debug\SSH client.pdb
+D:\GitHub\myRepo\SSH client\SSH client\SSH client\obj\Debug\SSH client.csprojResolveAssemblyReference.cache
+D:\GitHub\myRepo\SSH client\SSH client\SSH client\obj\Debug\SSH_client.Form1.resources
+D:\GitHub\myRepo\SSH client\SSH client\SSH client\obj\Debug\SSH_client.Properties.Resources.resources
+D:\GitHub\myRepo\SSH client\SSH client\SSH client\obj\Debug\SSH client.csproj.GenerateResource.Cache
+D:\GitHub\myRepo\SSH client\SSH client\SSH client\obj\Debug\SSH client.csproj.CoreCompileInputs.cache
+D:\GitHub\myRepo\SSH client\SSH client\SSH client\obj\Debug\SSH client.exe
+D:\GitHub\myRepo\SSH client\SSH client\SSH client\obj\Debug\SSH client.pdb
+D:\GitHub\myRepo\SSH client\SSH client\SSH client\bin\Debug\Renci.SshNet.dll
+D:\GitHub\myRepo\SSH client\SSH client\SSH client\bin\Debug\Renci.SshNet.xml
+D:\GitHub\myRepo\SSH client\SSH client\SSH client\bin\Debug\Newtonsoft.Json.dll
+D:\GitHub\myRepo\SSH client\SSH client\SSH client\bin\Debug\Newtonsoft.Json.xml
